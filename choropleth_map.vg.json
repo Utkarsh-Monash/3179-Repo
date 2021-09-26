@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "COVID-19 Total Deaths (27th July, 2021)",
+  "title": "Number of deaths from COVID-19 till 27th July, 2021",
   "width": 800,
   "height": 600,
   "data": {
