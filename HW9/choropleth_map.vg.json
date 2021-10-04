@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Number of deaths from COVID-19 till 27th July, 2021",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Utkarsh-Monash/3179-Repo/main/countries-110m.json",
+    "format": {"type": "topojson", "feature": "countries"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Utkarsh-Monash/3179-Repo/main/country_wise_latest.csv"
+        },
+        "key": "Country",
+        "fields": ["Deaths"]
+      }
+    },
+    {"calculate": "datum.Deaths + 0.1", "as": "Total Deaths"}
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Total Deaths",
+      "type": "quantitative",
+      "scale": {
+        "type": "log",
+        "domain": [100, 50000, 300000],
+        "range": ["#94e5ff", "#399cbd", "#235e71", "#194553"]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "Country"},
+      {"field": "Deaths", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
