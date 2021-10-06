@@ -1,0 +1,400 @@
+Region,Year,GDPPC
+Africa ,2000,860
+Africa ,2001,814
+Africa ,2002,812
+Africa ,2003,947
+Africa ,2004,1108
+Africa ,2005,1273
+Africa ,2006,1437
+Africa ,2007,1638
+Africa ,2008,1867
+Africa ,2009,1727
+Africa ,2010,1975
+Africa ,2011,2150
+Africa ,2012,2236
+Africa ,2013,2256
+Africa ,2014,2276
+Africa ,2015,2021
+Africa ,2016,1875
+Africa ,2017,1841
+Africa ,2018,1916
+Africa ,2019,1923
+Africa ,2020,1813
+Asia and Pacific,2000,2650
+Asia and Pacific,2001,2441
+Asia and Pacific,2002,2464
+Asia and Pacific,2003,2717
+Asia and Pacific,2004,3032
+Asia and Pacific,2005,3242
+Asia and Pacific,2006,3432
+Asia and Pacific,2007,3882
+Asia and Pacific,2008,4344
+Asia and Pacific,2009,4421
+Asia and Pacific,2010,5114
+Asia and Pacific,2011,5824
+Asia and Pacific,2012,6128
+Asia and Pacific,2013,6162
+Asia and Pacific,2014,6327
+Asia and Pacific,2015,6216
+Asia and Pacific,2016,6409
+Asia and Pacific,2017,6809
+Asia and Pacific,2018,7242
+Asia and Pacific,2019,7378
+Asia and Pacific,2020,7300
+Australia and New Zealand,2000,19705
+Australia and New Zealand,2001,18469
+Australia and New Zealand,2002,20651
+Australia and New Zealand,2003,26076
+Australia and New Zealand,2004,31420
+Australia and New Zealand,2005,34656
+Australia and New Zealand,2006,35908
+Australia and New Zealand,2007,42893
+Australia and New Zealand,2008,46269
+Australia and New Zealand,2009,42822
+Australia and New Zealand,2010,52672
+Australia and New Zealand,2011,62457
+Australia and New Zealand,2012,63806
+Australia and New Zealand,2013,61472
+Australia and New Zealand,2014,58861
+Australia and New Zealand,2015,49341
+Australia and New Zealand,2016,49894
+Australia and New Zealand,2017,53704
+Australia and New Zealand,2018,54238
+Australia and New Zealand,2019,52456
+Australia and New Zealand,2020,50893
+Caribbean,2000,2952
+Caribbean,2001,2939
+Caribbean,2002,3012
+Caribbean,2003,3083
+Caribbean,2004,3363
+Caribbean,2005,3754
+Caribbean,2006,4049
+Caribbean,2007,4522
+Caribbean,2008,5052
+Caribbean,2009,4372
+Caribbean,2010,4642
+Caribbean,2011,4989
+Caribbean,2012,5112
+Caribbean,2013,5185
+Caribbean,2014,5208
+Caribbean,2015,5069
+Caribbean,2016,4768
+Caribbean,2017,4861
+Caribbean,2018,5101
+Caribbean,2019,5041
+Caribbean,2020,4472
+Central America,2000,2120
+Central America,2001,2193
+Central America,2002,2271
+Central America,2003,2184
+Central America,2004,2295
+Central America,2005,2704
+Central America,2006,2916
+Central America,2007,3267
+Central America,2008,3620
+Central America,2009,3562
+Central America,2010,3903
+Central America,2011,4307
+Central America,2012,4576
+Central America,2013,4782
+Central America,2014,5026
+Central America,2015,5306
+Central America,2016,5520
+Central America,2017,5761
+Central America,2018,5897
+Central America,2019,6014
+Central America,2020,5442
+Central Asia and the Caucasus,2000,2420
+Central Asia and the Caucasus,2001,NA
+Central Asia and the Caucasus,2002,1946
+Central Asia and the Caucasus,2003,2467
+Central Asia and the Caucasus,2004,3156
+Central Asia and the Caucasus,2005,3880
+Central Asia and the Caucasus,2006,4384
+Central Asia and the Caucasus,2007,5394
+Central Asia and the Caucasus,2008,6174
+Central Asia and the Caucasus,2009,5245
+Central Asia and the Caucasus,2010,6204
+Central Asia and the Caucasus,2011,6887
+Central Asia and the Caucasus,2012,7215
+Central Asia and the Caucasus,2013,7754
+Central Asia and the Caucasus,2014,7524
+Central Asia and the Caucasus,2015,6644
+Central Asia and the Caucasus,2016,6242
+Central Asia and the Caucasus,2017,6183
+Central Asia and the Caucasus,2018,5739
+Central Asia and the Caucasus,2019,5647
+Central Asia and the Caucasus,2020,5248
+East Asia,2000,4926
+East Asia,2001,4538
+East Asia,2002,4527
+East Asia,2003,4908
+East Asia,2004,5408
+East Asia,2005,5684
+East Asia,2006,5904
+East Asia,2007,6490
+East Asia,2008,7398
+East Asia,2009,7727
+East Asia,2010,8779
+East Asia,2011,10089
+East Asia,2012,10772
+East Asia,2013,10820
+East Asia,2014,11235
+East Asia,2015,11270
+East Asia,2016,11665
+East Asia,2017,12334
+East Asia,2018,13427
+East Asia,2019,13724
+East Asia,2020,13879
+Eastern Europe,2000,2295
+Eastern Europe,2001,2614
+Eastern Europe,2002,2971
+Eastern Europe,2003,3641
+Eastern Europe,2004,4657
+Eastern Europe,2005,5727
+Eastern Europe,2006,6969
+Eastern Europe,2007,9031
+Eastern Europe,2008,11316
+Eastern Europe,2009,8861
+Eastern Europe,2010,10041
+Eastern Europe,2011,11894
+Eastern Europe,2012,12075
+Eastern Europe,2013,12666
+Eastern Europe,2014,11922
+Eastern Europe,2015,8989
+Eastern Europe,2016,8842
+Eastern Europe,2017,10331
+Eastern Europe,2018,11284
+Eastern Europe,2019,11582
+Eastern Europe,2020,10808
+Europe,2000,13491
+Europe,2001,13719
+Europe,2002,15005
+Europe,2003,18201
+Europe,2004,21112
+Europe,2005,22327
+Europe,2006,24104
+Europe,2007,28050
+Europe,2008,30761
+Europe,2009,26966
+Europe,2010,27366
+Europe,2011,30069
+Europe,2012,28735
+Europe,2013,29894
+Europe,2014,30313
+Europe,2015,25974
+Europe,2016,25931
+Europe,2017,27516
+Europe,2018,29648
+Europe,2019,29162
+Europe,2020,28008
+Middle East ,2000,6377
+Middle East ,2001,5860
+Middle East ,2002,4589
+Middle East ,2003,4414
+Middle East ,2004,5183
+Middle East ,2005,6152
+Middle East ,2006,7044
+Middle East ,2007,8127
+Middle East ,2008,9858
+Middle East ,2009,8495
+Middle East ,2010,9822
+Middle East ,2011,12681
+Middle East ,2012,12319
+Middle East ,2013,12555
+Middle East ,2014,12568
+Middle East ,2015,10681
+Middle East ,2016,10468
+Middle East ,2017,11046
+Middle East ,2018,11843
+Middle East ,2019,12218
+Middle East ,2020,10968
+North Africa,2000,1875
+North Africa,2001,1805
+North Africa,2002,1637
+North Africa,2003,1788
+North Africa,2004,1986
+North Africa,2005,2270
+North Africa,2006,2551
+North Africa,2007,2962
+North Africa,2008,3512
+North Africa,2009,3257
+North Africa,2010,3653
+North Africa,2011,3767
+North Africa,2012,4178
+North Africa,2013,4049
+North Africa,2014,3961
+North Africa,2015,3651
+North Africa,2016,3564
+North Africa,2017,3090
+North Africa,2018,3239
+North Africa,2019,3424
+North Africa,2020,3412
+North America,2000,28316
+North America,2001,28914
+North America,2002,29533
+North America,2003,30670
+North America,2004,32541
+North America,2005,34653
+North America,2006,36609
+North America,2007,38148
+North America,2008,38642
+North America,2009,36826
+North America,2010,38524
+North America,2011,40013
+North America,2012,41180
+North America,2013,42270
+North America,2014,43466
+North America,2015,43775
+North America,2016,44214
+North America,2017,45921
+North America,2018,48043
+North America,2019,49516
+North America,2020,47590
+Pacific Islands,2000,1193
+Pacific Islands,2001,1066
+Pacific Islands,2002,1047
+Pacific Islands,2003,1265
+Pacific Islands,2004,1431
+Pacific Islands,2005,1606
+Pacific Islands,2006,1737
+Pacific Islands,2007,1922
+Pacific Islands,2008,2198
+Pacific Islands,2009,2055
+Pacific Islands,2010,2340
+Pacific Islands,2011,2776
+Pacific Islands,2012,3051
+Pacific Islands,2013,3023
+Pacific Islands,2014,3200
+Pacific Islands,2015,2971
+Pacific Islands,2016,2855
+Pacific Islands,2017,3056
+Pacific Islands,2018,3167
+Pacific Islands,2019,3171
+Pacific Islands,2020,2879
+South America,2000,3984
+South America,2001,3610
+South America,2002,2804
+South America,2003,2983
+South America,2004,3561
+South America,2005,4494
+South America,2006,5401
+South America,2007,6641
+South America,2008,7976
+South America,2009,7600
+South America,2010,9635
+South America,2011,11243
+South America,2012,11098
+South America,2013,10982
+South America,2014,10558
+South America,2015,9034
+South America,2016,8630
+South America,2017,9300
+South America,2018,8640
+South America,2019,8161
+South America,2020,6592
+South Asia,2000,467
+South Asia,2001,470
+South Asia,2002,485
+South Asia,2003,555
+South Asia,2004,634
+South Asia,2005,714
+South Asia,2006,798
+South Asia,2007,994
+South Asia,2008,995
+South Asia,2009,1077
+South Asia,2010,1298
+South Asia,2011,1390
+South Asia,2012,1386
+South Asia,2013,1405
+South Asia,2014,1521
+South Asia,2015,1571
+South Asia,2016,1685
+South Asia,2017,1907
+South Asia,2018,1935
+South Asia,2019,2001
+South Asia,2020,1897
+Southeast Asia,2000,1251
+Southeast Asia,2001,1190
+Southeast Asia,2002,1310
+Southeast Asia,2003,1455
+Southeast Asia,2004,1624
+Southeast Asia,2005,1787
+Southeast Asia,2006,2113
+Southeast Asia,2007,2491
+Southeast Asia,2008,2862
+Southeast Asia,2009,2795
+Southeast Asia,2010,3415
+Southeast Asia,2011,3922
+Southeast Asia,2012,4114
+Southeast Asia,2013,4202
+Southeast Asia,2014,4186
+Southeast Asia,2015,4018
+Southeast Asia,2016,4165
+Southeast Asia,2017,4446
+Southeast Asia,2018,4715
+Southeast Asia,2019,4939
+Southeast Asia,2020,4651
+Sub-Saharan Africa ,2000,645
+Sub-Saharan Africa ,2001,606
+Sub-Saharan Africa ,2002,640
+Sub-Saharan Africa ,2003,775
+Sub-Saharan Africa ,2004,929
+Sub-Saharan Africa ,2005,1072
+Sub-Saharan Africa ,2006,1214
+Sub-Saharan Africa ,2007,1377
+Sub-Saharan Africa ,2008,1544
+Sub-Saharan Africa ,2009,1429
+Sub-Saharan Africa ,2010,1650
+Sub-Saharan Africa ,2011,1839
+Sub-Saharan Africa ,2012,1866
+Sub-Saharan Africa ,2013,1917
+Sub-Saharan Africa ,2014,1959
+Sub-Saharan Africa ,2015,1716
+Sub-Saharan Africa ,2016,1561
+Sub-Saharan Africa ,2017,1607
+Sub-Saharan Africa ,2018,1670
+Sub-Saharan Africa ,2019,1647
+Sub-Saharan Africa ,2020,1522
+Western Europe,2000,23094
+Western Europe,2001,23162
+Western Europe,2002,25124
+Western Europe,2003,30327
+Western Europe,2004,34695
+Western Europe,2005,35889
+Western Europe,2006,37983
+Western Europe,2007,43331
+Western Europe,2008,46249
+Western Europe,2009,41303
+Western Europe,2010,41004
+Western Europe,2011,44289
+Western Europe,2012,41714
+Western Europe,2013,43263
+Western Europe,2014,44518
+Western Europe,2015,39025
+Western Europe,2016,38991
+Western Europe,2017,40583
+Western Europe,2018,43533
+Western Europe,2019,42388
+Western Europe,2020,40903
+Western Hemisphere ,2000,16181
+Western Hemisphere ,2001,16306
+Western Hemisphere ,2002,16264
+Western Hemisphere ,2003,16890
+Western Hemisphere ,2004,18067
+Western Hemisphere ,2005,19536
+Western Hemisphere ,2006,20905
+Western Hemisphere ,2007,22222
+Western Hemisphere ,2008,23054
+Western Hemisphere ,2009,21957
+Western Hemisphere ,2010,23673
+Western Hemisphere ,2011,25108
+Western Hemisphere ,2012,25628
+Western Hemisphere ,2013,26112
+Western Hemisphere ,2014,26523
+Western Hemisphere ,2015,26019
+Western Hemisphere ,2016,26056
+Western Hemisphere ,2017,27191
+Western Hemisphere ,2018,27977
+Western Hemisphere ,2019,28488
+Western Hemisphere ,2020,26796
